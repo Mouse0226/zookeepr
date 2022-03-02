@@ -117,15 +117,6 @@
         "hungry"
       ],
       "id": "11"
-    },
-    {
-      "name": "Tamara",
-      "species": "Chimpanzee",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "loving"
-      ],
-      "id": "12"
     }
   ]
 }
